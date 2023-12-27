@@ -1,4 +1,10 @@
-public static bool Prefix(ref bool __result, TileEntitySecureLootContainer __instance, string ___password, string _password, PlatformUserIdentifierAbs _userIdentifier)
+namespace Harmony
+{
+	[HarmonyPatch(typeof(TileEntitySecureLootContainer))]
+	[HarmonyPatch("CheckPassword")]
+	public class CheckPassword
+	{
+		public static bool Prefix(ref bool __result, TileEntitySecureLootContainer __instance, string ___password, string _password, PlatformUserIdentifierAbs _userIdentifier)
 		{
 			if (!__instance.bPlayerStorage)
 			{
@@ -23,7 +29,7 @@ public static bool Prefix(ref bool __result, TileEntitySecureLootContainer __ins
 	[HarmonyPatch("OnBlockAdded")]
 	public class OnBlockAdded
 	{
-		public static void Postfix(WorldBase world, Chunk _chunk, Vector3i _blockPos, BlockValue _blockValue)
+		public static void Postfix(WorldBase world, Chunk _chunk, Vector3i _block	Pos, BlockValue _blockValue)
 		{
 			if (world.GetTileEntity(_chunk.ClrIdx, _blockPos) is TileEntitySecureLootContainer te)
 			{
@@ -37,15 +43,4 @@ public static bool Prefix(ref bool __result, TileEntitySecureLootContainer __ins
 			}
 		}
 	}
-	[HarmonyPatch(typeof(EntityPlayerLocal))]
-	[HarmonyPatch("OnUpdateLive")]
-	public class OnUpdateLive
-	{
-		public static void Postfix(EntityPlayerLocal __instance)
-		{
-			if (__instance.blockValueStandingOn.Block is BlockShower && __instance.blockValueStandingOn.meta2 > 0)
-			{
-				__instance.Buffs.AddBuff("buffShower");
-			}
-		}
-	}
+}
