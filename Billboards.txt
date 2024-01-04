@@ -1,3 +1,4 @@
-https://cdn.discordapp.com/attachments/850857231070789640/1192561298198761603/F_T9o7wWkAA-fJd.jpg
-https://cdn.discordapp.com/attachments/850857231070789640/1192561492327936030/F-6EHg2WEAEIJIs.jpg
-https://cdn.discordapp.com/attachments/850857231070789640/1192561492025950272/F-9i5CvW8AAAjKv.jpg
+https://raw.githubusercontent.com/JustAlter/Mods/main/Billboards/1.jpg
+https://raw.githubusercontent.com/JustAlter/Mods/main/Billboards/2.jpg
+https://raw.githubusercontent.com/JustAlter/Mods/main/Billboards/3.jpg
+https://raw.githubusercontent.com/JustAlter/Mods/main/Billboards/4.jpg
