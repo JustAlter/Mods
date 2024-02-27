@@ -1,13 +1,12 @@
-https://cdn.discordapp.com/attachments/850857231070789640/1059240227031502848/An_Evening_of_Jazz.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1059240229162188880/Doom_Hunter.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1059240232416989204/L.A._Sunset.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1059240235873075300/Lo-Fi_In_Apocalypse.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1059240239710871572/Navezgane_Radio.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1059343345333325934/Galaxy_News_Radio.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1059343347698901062/Mojave_Radio.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1059343429261348915/Appalachia_Radio.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1059343431584981032/Diamond_City_Radio.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1191403466283810909/Silent_Hill.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1191598371262181446/The_Zone.mp4
-https://cdn.discordapp.com/attachments/850857231070789640/1191753577870409768/Cafe_de_Touhou.mp4
-https://gitlab.com/justalter/Mods/-/raw/main/Hololive%20Radio.mp4|Hololive Radio
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1059240227031502848/An_Evening_of_Jazz.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1059240229162188880/Doom_Hunter.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1059240232416989204/L.A._Sunset.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1059240235873075300/Lo-Fi_In_Apocalypse.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1059240239710871572/Navezgane_Radio.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1059343345333325934/Galaxy_News_Radio.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1059343347698901062/Mojave_Radio.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1059343429261348915/Appalachia_Radio.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1059343431584981032/Diamond_City_Radio.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1191403466283810909/Silent_Hill.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1191598371262181446/The_Zone.mp4
+http://143.244.208.211/https://cdn.discordapp.com/attachments/850857231070789640/1191753577870409768/Cafe_de_Touhou.mp4
